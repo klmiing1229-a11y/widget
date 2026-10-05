@@ -1,5 +1,7 @@
 # Deskmate
 
+![Deskmate banner: an illustration of the widget, not a real screenshot](assets/banner.png)
+
 A small floating widget for your Mac with four things in it: **news**, **calendar reminders with an hour tracker**,
 **a quick-copy vault**, and **a look you can change completely**.
 
