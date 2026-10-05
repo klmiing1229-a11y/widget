@@ -5,6 +5,8 @@
 A small floating widget for your Mac with four things in it: **news**, **calendar reminders with an hour tracker**,
 **a quick-copy vault**, and **a look you can change completely**.
 
+Deskmate is for Mac only (macOS 13 or later). There is no Android, Windows or iPhone version.
+
 No AI, no account, no tracking. It runs entirely on your Mac and only goes online to read public news feeds
 (and your calendar's iCal link, if you choose to use one).
 
